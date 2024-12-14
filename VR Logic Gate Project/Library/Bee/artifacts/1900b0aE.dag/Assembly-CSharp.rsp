@@ -348,6 +348,7 @@
 "Assets/Scripts/FPSController.cs"
 "Assets/Scripts/LogicComponent.cs"
 "Assets/Scripts/LogicGate.cs"
+"Assets/Scripts/NotGate.cs"
 "Assets/Scripts/Switch.cs"
 -langversion:9.0
 /deterministic

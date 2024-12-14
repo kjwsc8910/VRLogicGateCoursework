@@ -34,6 +34,7 @@ public class LogicGate : LogicComponent
 				output = output ^ not;
 				break;
 		}
+
 	}
 
 }
