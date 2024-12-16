@@ -1,23 +1,23 @@
 Using pre-set license
 Built from '2021.3/release' branch; Version is '2021.3.38f1 (7a2fa5d8d101) revision 8007589'; Using compiler version '192829333'; Build Type 'Release'
-OS: 'Windows 11  (10.0.22631) 64bit Core' Language: 'en' Physical Memory: 32682 MB
+OS: 'Windows 11  (10.0.22631) 64bit Professional' Language: 'en' Physical Memory: 32664 MB
 BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
 
 COMMAND LINE ARGUMENTS:
-D:\Program Files\Unity\2021.3.38f1\Editor\Unity.exe
+C:\Program Files\Unity\Hub\Editor\2021.3.38f1\Editor\Unity.exe
 -adb2
 -batchMode
 -noUpm
 -name
 AssetImportWorker2
 -projectPath
-E:/Users/KJ/Documents/_Uni/VR/VR Logic Gate Project
+C:/Users/marky/VRLogicGateCoursework/VRLogicGateCoursework/VR Logic Gate Project
 -logFile
 Logs/AssetImportWorker2.log
 -srvPort
-53986
-Successfully changed project path to: E:/Users/KJ/Documents/_Uni/VR/VR Logic Gate Project
-E:/Users/KJ/Documents/_Uni/VR/VR Logic Gate Project
+61097
+Successfully changed project path to: C:/Users/marky/VRLogicGateCoursework/VRLogicGateCoursework/VR Logic Gate Project
+C:/Users/marky/VRLogicGateCoursework/VRLogicGateCoursework/VR Logic Gate Project
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
     "memorysetup-bucket-allocator-granularity=16"
     "memorysetup-bucket-allocator-bucket-count=8"
@@ -47,98 +47,98 @@ E:/Users/KJ/Documents/_Uni/VR/VR Logic Gate Project
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [20744] Host "[IP] 192.168.0.32 [Port] 0 [Flags] 2 [Guid] 2562979011 [EditorId] 2562979011 [Version] 1048832 [Id] WindowsEditor(7,KJs-Desktop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [17652] Host "[IP] 192.168.0.45 [Port] 0 [Flags] 2 [Guid] 4002007192 [EditorId] 4002007192 [Version] 1048832 [Id] WindowsEditor(7,The_Thingamabob) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [20744] Host "[IP] 192.168.0.32 [Port] 0 [Flags] 2 [Guid] 2562979011 [EditorId] 2562979011 [Version] 1048832 [Id] WindowsEditor(7,KJs-Desktop) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [17652] Host "[IP] 192.168.0.45 [Port] 0 [Flags] 2 [Guid] 4002007192 [EditorId] 4002007192 [Version] 1048832 [Id] WindowsEditor(7,The_Thingamabob) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with {0} workers.
-Refreshing native plugins compatible for Editor in 54.34 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 54.51 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.3.38f1 (7a2fa5d8d101)
-[Subsystems] Discovering subsystems at path D:/Program Files/Unity/2021.3.38f1/Editor/Data/Resources/UnitySubsystems
-[Subsystems] Discovering subsystems at path E:/Users/KJ/Documents/_Uni/VR/VR Logic Gate Project/Assets
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/marky/VRLogicGateCoursework/VRLogicGateCoursework/VR Logic Gate Project/Assets
 GfxDevice: creating device client; threaded=0; jobified=0
 Direct3D:
     Version:  Direct3D 11.0 [level 11.1]
-    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Renderer: NVIDIA GeForce RTX 3070 Ti (ID=0x2482)
     Vendor:   NVIDIA
-    VRAM:     8060 MB
+    VRAM:     8018 MB
     Driver:   32.0.15.6094
 Initialize mono
-Mono path[0] = 'D:/Program Files/Unity/2021.3.38f1/Editor/Data/Managed'
-Mono path[1] = 'D:/Program Files/Unity/2021.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
-Mono config path = 'D:/Program Files/Unity/2021.3.38f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56308
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56592
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
-Register platform support module: D:/Program Files/Unity/2021.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.165462 seconds.
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.3.38f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008536 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 53.73 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 52.54 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  5.678 seconds
+- Completed reload, in  0.547 seconds
 Domain Reload Profiling:
-	ReloadAssembly (5678ms)
-		BeginReloadAssembly (4268ms)
+	ReloadAssembly (547ms)
+		BeginReloadAssembly (85ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (0ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
 			CreateAndSetChildDomain (1ms)
-		EndReloadAssembly (894ms)
-			LoadAssemblies (4268ms)
+		EndReloadAssembly (372ms)
+			LoadAssemblies (82ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (621ms)
+			SetupTypeCache (88ms)
 			ReleaseScriptCaches (0ms)
-			RebuildScriptCaches (22ms)
-			SetupLoadedEditorAssemblies (222ms)
+			RebuildScriptCaches (24ms)
+			SetupLoadedEditorAssemblies (224ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (5ms)
+				InitializePlatformSupportModulesInManaged (6ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (54ms)
+				RefreshPlugins (53ms)
 				BeforeProcessingInitializeOnLoad (1ms)
-				ProcessInitializeOnLoadAttributes (117ms)
-				ProcessInitializeOnLoadMethodAttributes (45ms)
+				ProcessInitializeOnLoadAttributes (125ms)
+				ProcessInitializeOnLoadMethodAttributes (40ms)
 				AfterProcessingInitializeOnLoad (0ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (0ms)
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.002898 seconds.
+Registered in 0.005455 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.38 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Package Manager log level set to [2]
 [Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Completed reload, in  4.431 seconds
+- Completed reload, in  1.223 seconds
 Domain Reload Profiling:
-	ReloadAssembly (4432ms)
-		BeginReloadAssembly (100ms)
+	ReloadAssembly (1224ms)
+		BeginReloadAssembly (108ms)
 			ExecutionOrderSort (0ms)
 			DisableScriptedObjects (5ms)
 			BackupInstance (0ms)
 			ReleaseScriptingObjects (0ms)
-			CreateAndSetChildDomain (17ms)
-		EndReloadAssembly (4210ms)
-			LoadAssemblies (2788ms)
+			CreateAndSetChildDomain (15ms)
+		EndReloadAssembly (1024ms)
+			LoadAssemblies (84ms)
 			RebuildTransferFunctionScriptingTraits (0ms)
-			SetupTypeCache (738ms)
-			ReleaseScriptCaches (1ms)
-			RebuildScriptCaches (36ms)
-			SetupLoadedEditorAssemblies (639ms)
+			SetupTypeCache (242ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (648ms)
 				LogAssemblyErrors (0ms)
-				InitializePlatformSupportModulesInManaged (3ms)
+				InitializePlatformSupportModulesInManaged (4ms)
 				SetLoadedEditorAssemblies (0ms)
-				RefreshPlugins (1ms)
-				BeforeProcessingInitializeOnLoad (53ms)
-				ProcessInitializeOnLoadAttributes (561ms)
-				ProcessInitializeOnLoadMethodAttributes (19ms)
-				AfterProcessingInitializeOnLoad (2ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (73ms)
+				ProcessInitializeOnLoadAttributes (545ms)
+				ProcessInitializeOnLoadMethodAttributes (17ms)
+				AfterProcessingInitializeOnLoad (8ms)
 				EditorAssembliesLoaded (0ms)
 			ExecutionOrderSort2 (0ms)
 			AwakeInstancesAfterBackupRestoration (6ms)
@@ -146,19 +146,18 @@ Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
-Refreshing native plugins compatible for Editor in 0.48 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 0.40 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 3085 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 24 unused Assets / (46.4 KB). Loaded Objects now: 3544.
-Memory consumption went from 106.9 MB to 106.8 MB.
-Total: 2.886100 ms (FindLiveObjects: 0.209500 ms CreateObjectMapping: 0.139300 ms MarkObjects: 2.407300 ms  DeleteObjects: 0.128800 ms)
+Unloading 3086 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 24 unused Assets / (46.5 KB). Loaded Objects now: 3545.
+Memory consumption went from 107.9 MB to 107.8 MB.
+Total: 2.359800 ms (FindLiveObjects: 0.220200 ms CreateObjectMapping: 0.209500 ms MarkObjects: 1.873000 ms  DeleteObjects: 0.056400 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
   custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
   custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:CustomObjectIndexerAttribute: bc11b3a6c3213fcdd17b65e7da85e133 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
   custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
@@ -168,51 +167,27 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 11426.663051 seconds.
-  path: Assets/Models/LogicGates_Logic_Gate.fbx
-  artifactKey: Guid(122f29582e9c1bc45a723dcfb3c01e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/Models/LogicGates_Logic_Gate.fbx using Guid(122f29582e9c1bc45a723dcfb3c01e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '598f59dea31c533b849476d2deb2aecd') in 0.170597 seconds 
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 563.156934 seconds.
-  path: Assets/Models/LogicGates_Logic_Gate.fbx
-  artifactKey: Guid(122f29582e9c1bc45a723dcfb3c01e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/Models/LogicGates_Logic_Gate.fbx using Guid(122f29582e9c1bc45a723dcfb3c01e8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea30071e7434c14eaf4db1e9c5d58dc') in 0.021848 seconds 
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000019 seconds.
-  path: Assets/Models/LogicGates_Pipe-Cross.fbx
-  artifactKey: Guid(c7174ddef1dae9c409f538ffb81f5da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Number of updated assets reloaded before import = 0
-Start importing Assets/Models/LogicGates_Pipe-Cross.fbx using Guid(c7174ddef1dae9c409f538ffb81f5da0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0d75b6c84a09d6798e884c47ae5ef7d9') in 0.012847 seconds 
-Number of asset objects unloaded after import = 7
-========================================================================
-Received Import Request.
-  Time since last request: 0.000014 seconds.
+  Time since last request: 2038521.631682 seconds.
   path: Assets/Models/LogicGates_Switch.fbx
   artifactKey: Guid(7254f6f880a74584cbee46642516facd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/Models/LogicGates_Switch.fbx using Guid(7254f6f880a74584cbee46642516facd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a77114f31026057b74ac7ce9857f39c') in 0.013712 seconds 
+Start importing Assets/Models/LogicGates_Switch.fbx using Guid(7254f6f880a74584cbee46642516facd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e0e4fddd6e18693b046ed4e7dd5a4d24') in 0.180859 seconds 
 Number of asset objects unloaded after import = 8
 ========================================================================
 Received Import Request.
   Time since last request: 0.000015 seconds.
-  path: Assets/Models/LogicGates_Pipe-T.fbx
-  artifactKey: Guid(958b852cea5b3fb40b8d5cfed1230594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  path: Assets/Models
+  artifactKey: Guid(053f86b1b58a021429de4c2b18a8584a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/Models/LogicGates_Pipe-T.fbx using Guid(958b852cea5b3fb40b8d5cfed1230594) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '692387e24be563fcd8a1116d3f25f680') in 0.012348 seconds 
-Number of asset objects unloaded after import = 7
+Start importing Assets/Models using Guid(053f86b1b58a021429de4c2b18a8584a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6690219061e01446c25df09c0f55a09a') in 0.001678 seconds 
+Number of asset objects unloaded after import = 0
 ========================================================================
 Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Models/LogicGates_Pipe.fbx
-  artifactKey: Guid(abe5ecde46c421e4691282755ee7c14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+  Time since last request: 0.000023 seconds.
+  path: Assets/Models/LogicGates_Pipe-Bend.fbx
+  artifactKey: Guid(7045f80f120913b4692a7c28bca3cf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
 Number of updated assets reloaded before import = 0
-Start importing Assets/Models/LogicGates_Pipe.fbx using Guid(abe5ecde46c421e4691282755ee7c14b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b1185e48e39463b4b8d5e0269514801f') in 0.011629 seconds 
+Start importing Assets/Models/LogicGates_Pipe-Bend.fbx using Guid(7045f80f120913b4692a7c28bca3cf71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5fa3123925e2076700fdad4991904e6b') in 0.012744 seconds 
 Number of asset objects unloaded after import = 7
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
